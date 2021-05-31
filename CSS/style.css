@@ -1,9 +1,7 @@
 body{
   font-family: 'Poppins', sans-serif
 }
-.background{
-  background-image: url("Images/Flag_of_Guyana.jpg");
-}
+
         .main{
             background-color: rgb(147, 235, 144);
             color:orange;
