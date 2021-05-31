@@ -1,4 +1,6 @@
-
+body{
+  font-family: 'Poppins', sans-serif
+}
         .main{
             background-color: rgb(147, 235, 144);
             color:orange;
