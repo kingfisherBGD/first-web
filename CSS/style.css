@@ -1,3 +1,18 @@
 body{
   font-family: 'Poppins', sans-serif
 }
+h1{
+  font-size: 50px;
+}
+.span-color{
+  color: orange;
+}
+.top-part{
+  width: 45%;
+  float: left;
+  margin-left: 30px;
+}
+.top-part img{
+  width: 100%;
+  margin-left: 150px;
+}
