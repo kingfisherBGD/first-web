@@ -1,37 +1,3 @@
 body{
   font-family: 'Poppins', sans-serif
 }
-
-        .main{
-            background-color: rgb(147, 235, 144);
-            color:orange;
-            height: 50px;
-            width: 50%;
-            border-radius: 20px; 
-            text-align: center;
-          }
-
-        h4{
-            color: blue;
-            background-color:orange;
-            height: 200px;
-            width: 50%;
-            padding: 10px;
-            border: 2px solid black;
-            border-radius: 20px; 
-          }
-        
-        img{
-            width:50%;
-            border: 2px solid black;
-            border-radius: 20px;
-        }
-        #wikipedia{
-            background-color: rgb(147, 235, 144);
-            color:red ;
-            height: 35px;
-            width: 50%;
-            border-radius: 20px; 
-            padding-top: 10px;
-            padding-left: 270px;
-        }
