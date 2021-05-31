@@ -8,7 +8,7 @@ body{
             background-color: rgb(147, 235, 144);
             color:orange;
             height: 50px;
-            width: 100%;
+            width: 50%;
             border-radius: 20px; 
             text-align: center;
           }
@@ -24,7 +24,7 @@ body{
           }
         
         img{
-            width:100%;
+            width:50%;
             border: 2px solid black;
             border-radius: 20px;
         }
